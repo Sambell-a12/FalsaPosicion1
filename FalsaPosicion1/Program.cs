@@ -101,6 +101,7 @@ namespace FalsaPosicion1
             //Math.Sin(e)+Math.Cos(e) "(-8,-5)" => raiz= -7.068583470576942
             //((Math.Pow((Math.Sqrt(e-5)/2),3))-3) "(0,17)" => NaN
             //((Math.Pow((Math.Sqrt(e-5)/2),3))-3) "(6,17)" => raiz = 13.32033451168127
+			//
 
             double operacion = ((((Math.Pow((e-5),(1/3))))/8)-3);
 			
